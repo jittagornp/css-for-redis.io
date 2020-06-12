@@ -1,0 +1,16 @@
+{
+    "name": "CSS for redis.io",
+    "version": "1.0",
+    "description": "CSS for redis.io",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_title": "CSS for redis.io",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "https://redis.io/*"
+    ],
+    "icons": {
+        "128": "redis128.png"
+    }
+}
