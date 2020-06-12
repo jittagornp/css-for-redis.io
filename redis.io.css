@@ -1,14 +1,14 @@
 article pre code {
     width           : 100%;
     box-sizing      : border-box;
-    background-color: #292929;
+    background-color: #292929 !important;
     color           : #fff;
     border-radius   : 5px;
-    border-color    : #000;
+    border-color    : #000 !important;
 }
 
 article a {
-    background-color: #0084dc;
+    color: #0084dc;
 }
 
 article p {
@@ -33,7 +33,7 @@ article p code {
 
 article h2 {
     margin-top: 2.5rem;
-    color : #0084dc;
+    color     : #0084dc;
 }
 
 article h1 {
@@ -44,4 +44,8 @@ article h1 {
 
 p+p {
     margin-top: 1rem;
+}
+
+.text em {
+    color: #ff6e19;
 }
