@@ -1,4 +1,4 @@
-#topic pre code {
+article pre code {
     width           : 100%;
     box-sizing      : border-box;
     background-color: #292929;
@@ -7,21 +7,36 @@
     border-color    : #000;
 }
 
-#topic p {
+article a {
+    background-color: #0084dc;
+}
+
+article p {
     line-height: 30px;
 }
 
-#topic p code {
+article ul,
+article ol {
+    padding-top     : 1rem;
+    padding-left    : 2rem;
+    padding-right   : 1rem;
+    padding-bottom  : 1rem;
+    border-radius   : 5px;
+    background-color: #fff3e5;
+}
+
+article p code {
     background-color: #ffdcdc;
     padding         : 3px 5px;
     border-radius   : 5px;
 }
 
-#topic article h2 {
+article h2 {
     margin-top: 2.5rem;
+    color : #0084dc;
 }
 
-#topic h1 {
+article h1 {
     border-bottom : solid 2px #dae2e4;
     padding-bottom: 1rem;
     margin-bottom : 2rem;
