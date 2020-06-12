@@ -1,7 +1,30 @@
-#topic code {
+#topic pre code {
     width           : 100%;
     box-sizing      : border-box;
-    background-color: whitesmoke;
+    background-color: #292929;
+    color           : #fff;
+    border-radius   : 5px;
+    border-color    : #000;
+}
+
+#topic p {
+    line-height: 30px;
+}
+
+#topic p code {
+    background-color: #ffdcdc;
+    padding         : 3px 5px;
+    border-radius   : 5px;
+}
+
+#topic article h2 {
+    margin-top: 2.5rem;
+}
+
+#top h1 {
+    border-bottom : solid 2px #dae2e4;
+    padding-bottom: 1rem;
+    margin-bottom : 2rem;
 }
 
 p+p {
