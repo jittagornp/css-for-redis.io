@@ -14,7 +14,7 @@
 
 # Result 
 
-![](./redis.io.png)
+![](./website-redis.io.png)
 
 # Document
 
