@@ -6,7 +6,7 @@ chrome.tabs.executeScript(null, {
             styleSheet.id = styleId;
             styleSheet.type = 'text/css';
             styleSheet.rel = 'stylesheet';
-            styleSheet.href = 'https://raw.githubusercontent.com/jittagornp/css-for-redis.io/master/redis.io.css?v=' + new Date().getTime();
+            styleSheet.href = 'https://jittagornp.github.io/css-for-redis.io/redis.io.css?v=' + new Date().getTime();
             document.head.appendChild(styleSheet);
         }
     `
