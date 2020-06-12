@@ -43,7 +43,7 @@ article h1 {
 }
 
 p+p {
-    margin-top: 1rem;
+    margin-top: 1rem !important;
 }
 
 .text em {
