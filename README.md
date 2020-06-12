@@ -15,3 +15,7 @@
 # Result 
 
 ![](./redis.io.png)
+
+# Dev Document
+
+- [https://developer.chrome.com/extensions/getstarted](https://developer.chrome.com/extensions/getstarted)
