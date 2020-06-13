@@ -1,5 +1,5 @@
 article pre code {
-    width           : 100%;
+    min-width           : 100%;
     box-sizing      : border-box;
     background-color: #292929 !important;
     color           : #fff;
