@@ -1,6 +1,6 @@
 {
     "name": "CSS for redis.io",
-    "version": "1.0",
+    "version": "1.2",
     "description": "CSS for redis.io",
     "manifest_version": 2,
     "content_scripts": [
