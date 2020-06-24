@@ -19,3 +19,9 @@
 # Document
 
 - [https://developer.chrome.com/extensions/getstarted](https://developer.chrome.com/extensions/getstarted)
+
+# Article 
+
+### Thai Language
+
+- [เขียน Google Chrome Extension อย่างง่ายเอาไว้ใช้เอง ด้วยทฤษฎี "Angry Driven Development"](https://www.jittagornp.me/blog/simple-google-chrome-extension/)
