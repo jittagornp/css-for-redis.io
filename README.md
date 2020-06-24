@@ -1,6 +1,6 @@
 # css-for-redis.io
 
-> Google Chrome Extension : CSS for redis.io
+> Google Chrome Extension : Easy to read redis.io documents
 
 # Install Google Chrome Extension 
 
